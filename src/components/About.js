@@ -1,5 +1,5 @@
 import React from "react";
-import user from "../data/user";
+
 import Links from "./Links";
 
 
